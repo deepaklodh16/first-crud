@@ -1,0 +1,15 @@
+body {
+    background-color: darkseagreen ;
+}
+tr {
+    border-width: 5px ;
+}
+thead {
+    background-color: mediumseagreen ;
+}
+tbody {
+    background-color: lightblue;
+}
+#update{
+    display: none;
+}
